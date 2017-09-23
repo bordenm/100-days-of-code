@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 4: Sept 19, Tuesday
+#### Day 4: Sept 19, Tuesday
 Day 4 of #100DaysOfCode (late post): worked more on portfolio page and some javascript from @freeCodeCamp
 
 ## Day 3: Sept 19, Tuesday
